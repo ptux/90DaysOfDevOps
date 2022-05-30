@@ -1,13 +1,13 @@
 ---
-title: '#90DaysOfDevOps - アプリケーションフォーカス - 3日目'
+title: '#90DaysOfDevOps - DevOps ライフサイクル - アプリケーションにフォーカス - 3日目'
 published: false
-description: 90DaysOfDevOps - アプリケーションフォーカス
+description: 90DaysOfDevOps - DevOps ライフサイクル - アプリケーションにフォーカス
 tags: "devops, 90daysofdevops, learning"
 cover_image: null
 canonical_url: null
 id: 1048825
 ---
-## DevOps ライフサイクル - アプリケーションフォーカス
+## DevOps ライフサイクル - アプリケーションにフォーカス
 もしあなたがDevOpsエンジニアの役割を目指しているのであれば、繰り返し行うことに慣れるでしょうが、毎回常に向上させることは、物事を面白く保つもう1つのポイントです。
 
 この時間では、アプリケーションの開始から終了までのハイレベルなビューを見て、一定のループのように戻ってくることにします。
